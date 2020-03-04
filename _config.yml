@@ -39,9 +39,9 @@ footer_show_references: true
 
 
 # Build settings
-theme: minima
-plugins:
-  - jekyll-seo-tag
+# theme: minima
+# plugins:
+#   - jekyll-seo-tag
 
 
 
