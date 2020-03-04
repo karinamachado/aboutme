@@ -1,0 +1,10 @@
+
+  <footer class="main_footer_rights">
+    <p>
+      {{ site.name | escape }} -
+      <a href="mailto:{{ site.email }}" target="_blank">{{ site.email | escape }}</a>
+      {%- if site.footer_show_references -%}
+        &nbsp;
+      {%- endif -%}
+    </p>
+</footer>
