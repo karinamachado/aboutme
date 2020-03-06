@@ -25,14 +25,13 @@ email: karinamachado@msn.com
 about_profile_image: _images/karina.jpg
 
 #Social Links
-github_username:  karinamachado
-linkedin_username: karinamachado
+# github_username:  karinamachado
+# linkedin_username: karinamachado
 
 
 #About Section
-about_content: | # about me
-about_title: Karina Machado - UI Enginneer
-
+# about_content: | # about me
+# about_title: Karina Machado - UI Enginneer
 
 # Footer
 footer_show_references: true
